@@ -1,5 +1,5 @@
 # Systems-Programming
-Both of the projects has check mechanisms for syntax errors so they are closer to real ones. Together they act like a compiler.
+Simulation of a compiler.
 
 First file "Assemble-Exec" has two codes: cpu230assemble.py and cpuexec.py. Former translates an assembly language self-defined to hexedecimal machine code. As for the latter one,
 it executes the instructions translated to hexadecimal instructions by the former code. It works like a code-written CPU.
